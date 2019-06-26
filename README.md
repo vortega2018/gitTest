@@ -1,3 +1,3 @@
 # gitTest
-Repositorio de pruebas 
+Repositorio de pruebas. 
 Solo para practicar
